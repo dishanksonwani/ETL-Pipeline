@@ -1,2 +1,2 @@
 # ETL-Pipeline
-A ETL pipeline demonstrating of a retail chain.
+A ETL pipeline demonstration of a retail chain data.
